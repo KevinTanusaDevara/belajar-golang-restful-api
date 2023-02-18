@@ -1,7 +1,7 @@
 package service
 
 import (
-	"belajar-golang-resful-api/model/web"
+	"belajar-golang-restful-api/model/web"
 	"context"
 )
 

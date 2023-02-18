@@ -1,13 +1,13 @@
 package test
 
 import (
-	"belajar-golang-resful-api/app"
-	"belajar-golang-resful-api/controller"
-	"belajar-golang-resful-api/helper"
-	"belajar-golang-resful-api/middleware"
-	"belajar-golang-resful-api/model/domain"
-	"belajar-golang-resful-api/repository"
-	"belajar-golang-resful-api/service"
+	"belajar-golang-restful-api/app"
+	"belajar-golang-restful-api/controller"
+	"belajar-golang-restful-api/helper"
+	"belajar-golang-restful-api/middleware"
+	"belajar-golang-restful-api/model/domain"
+	"belajar-golang-restful-api/repository"
+	"belajar-golang-restful-api/service"
 	"context"
 	"database/sql"
 	"encoding/json"

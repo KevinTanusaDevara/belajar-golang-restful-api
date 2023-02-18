@@ -1,8 +1,8 @@
 package exception
 
 import (
-	"belajar-golang-resful-api/helper"
-	"belajar-golang-resful-api/model/web"
+	"belajar-golang-restful-api/helper"
+	"belajar-golang-restful-api/model/web"
 	"net/http"
 
 	"github.com/go-playground/validator/v10"

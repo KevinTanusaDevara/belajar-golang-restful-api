@@ -1,7 +1,7 @@
 package app
 
 import (
-	"belajar-golang-resful-api/helper"
+	"belajar-golang-restful-api/helper"
 	"database/sql"
 	"time"
 )
